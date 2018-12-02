@@ -1,0 +1,31 @@
+{
+  "name": "dadjoke-api",
+  "version": "1.0.0",
+  "description": "An API that produces dad jokes.",
+  "main": "index.js",
+  "engines": {
+    "node": "0.10.33"
+  },
+  "dependencies": {
+    "express": "^4.10.1",
+    "logfmt": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ByronHickey/DadJokes"
+  },
+  "keywords": [
+    "jokes",
+    "dad",
+    "dadJokes",
+    "api",
+    "expressjs"
+  ],
+  "author": "RByron Hickey",
+  "license": "UNLICENSE",
+   "homepage": "https://github.com/ByronHickey/DadJokes"
+}
